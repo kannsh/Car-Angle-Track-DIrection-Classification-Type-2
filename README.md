@@ -11,7 +11,7 @@ MODEL used for notebook is SavedModel6 NOT SavedModel1
 # Download Dataset & Saved Model
 https://www.kaggle.com/fushenggg/car-angle-direction-classification
 
-*Contains SavedModel5.h5 file to load model (Saves time from training)
+*Contains SavedModel6.h5 file to load model (Saves time from training)
 
 Unzip the file and place the 'tub280_copy' folder into your CWD (current working directory) 
 Make a copy of the 'tub_280_20-02-01(Copywithmeta)' folder and rename it as 'tub_280_20-02-01'.
