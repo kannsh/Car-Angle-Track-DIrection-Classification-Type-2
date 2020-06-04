@@ -4,7 +4,7 @@ THIS DATASET IS ALSO USED IN Car Angle Track Direction Classification (TYPE 1)
 
 ** Remember to make a copy of the 'tub_280_20-02-01(Copywithmeta)' folder and rename it as 'tub_280_20-02-01'.
 
-MODEL used for notebook is SavedModel5 NOT SavedModel1
+MODEL used for notebook is SavedModel6 NOT SavedModel1
 
 # *All notebooks, saved models and dataset folders must be inside your CWD
 
